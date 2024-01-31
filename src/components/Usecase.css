@@ -1,0 +1,6 @@
+.mg-bottom-32px {
+  margin-bottom: 32px;
+  overflow: hidden;
+  transform: translate(0);
+  border: 1px solid;
+}
